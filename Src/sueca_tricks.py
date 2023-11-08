@@ -160,8 +160,7 @@ def parseGameFile(fname):
         p+=1
         
     
-    final = k,m
-    return final
+
     
 
    
